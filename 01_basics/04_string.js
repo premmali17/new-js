@@ -6,4 +6,3 @@ const repocount = 50;
 //outdated technique to call string
 
 console.log('hello my name is name ${name} and my repo count is ${repocount}');
-

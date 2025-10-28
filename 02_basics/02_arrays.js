@@ -21,7 +21,7 @@ console.log(all_new_heros);
 
 console.log(Array.isArray("prem"));//u can check the its an array or not then if yes then it wil give u boolean value like true or false
 
-console.log(Array.from("prem"));// it converts given data into arrays 
+console.log(Array.from("prem"));// it converts given data into arrays   
 
 console.log(Array.from({name: "prem"}));// it returns empty brackets like this [] cuz it cant dirctly convert
                       //****interesting****//
